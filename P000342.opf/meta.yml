@@ -1,15 +1,16 @@
-id: opecha:P000342
+id: P000342
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG21760
   title: བོད་ཀྱི་སྐར་རྩིས་རིག་པའི་རྣམ་བཞག
-  volume:
+  author: ''
+  volumes:
     18d9bb1c466341bd9e25ae719db6d25d:
       image_group_id: I1KG21870
       title: Volume 1 of bod kyi skar rtsis rig pa'i rnam bzhag
       volume_number: 1
       total_pages: 518
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་སྐར་རྩིས་རིག་པའི་རྣམ་བཞག
   author: ''
